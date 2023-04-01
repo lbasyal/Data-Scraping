@@ -1,3 +1,3 @@
 # Data-Scraping
 
-In this project, data scraping has been performed from the twitter with hashtag for further processing of data to extract the useful information.
+Data scraping from Twitter using a specific hashtag for extracting useful information. Additionally, presented web scraping techniques using Selenium and Beautiful Soup
